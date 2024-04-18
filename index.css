@@ -1,0 +1,33 @@
+.main{
+  background-color: #f5f5dc;
+  height: 250px;
+  width: 350px;
+  margin-top: 200px;
+  margin-left: 500px;
+  text-align: center;
+  border: 2px solid #5C4033;
+  border-radius: 5px;
+}
+
+.topic{
+  color: #5C4033;
+padding-top: 10px;
+}
+#btn{
+  background-color: #5C4033;
+  color: #f5f5dc;
+  border: 0px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 7px;
+  
+}
+#num{
+  height: 20px;
+  border-radius: 7px;
+  border: 2px solid #5C4033;
+}
+#result,#score{
+  color: #5C4033;
+}
